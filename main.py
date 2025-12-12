@@ -15,7 +15,7 @@ intents.members = True
 
 bot = commands.Bot(command_prefix="$", intents=intents)
 
-WHEN = time(18,49,0)
+WHEN = time(23, 49, 0)
 
 
 async def daily_task():
